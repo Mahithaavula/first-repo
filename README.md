@@ -5,4 +5,4 @@ Mahitha Avula
 
 Sunrises in East
 
-Added another line according to part5
+Added another line according to part3
